@@ -1,0 +1,5 @@
+fastapi == 0.75.1
+
+uvicorn == 0.14.0
+
+redis-om == 0.0.20
